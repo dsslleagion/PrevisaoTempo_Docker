@@ -1,0 +1,17 @@
+/* src/styles.css */
+.logo-image {
+    width: 150px; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+    padding: 5px; /* Adiciona um pouco de espaço em volta da imagem */
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./unsplash.jpg'); /* Substitua pelo nome da sua imagem */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    font-family: Arial, sans-serif;
+    /* Outros estilos que você deseja aplicar ao body */
+  }
+  
