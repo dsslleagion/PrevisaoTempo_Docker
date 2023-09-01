@@ -6,7 +6,9 @@ vagrant ssh
 <p> sudo docker run  --name mysql -e  MYSQL_ROOT_PASSWORD=fatec   -p 3306:3306 -d  mysql </p>
 <p>sudo docker ps -a</p>
 <p>ip a</p>
+
 ## apartir de agora os codigos para lançar o projeto dentro do docker
+
 <p>git clone https://github.com/dsslleagion/PrevisaoTempo_Docker.git</p>
 <p>ls</p>
 <p>cd PrevisaoTempo_Docker/</p>
